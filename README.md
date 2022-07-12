@@ -1,5 +1,4 @@
-## Hi there 👋
-<br>I'm Kasun Dananjaya
+## Hi there 👋<br>I'm Kasun Dananjaya
 <!--
 **kasunicts48/kasunicts48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
