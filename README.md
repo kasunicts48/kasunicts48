@@ -1,9 +1,6 @@
 <h1 align="center">Hi there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Kasun</h1>
 <br/>
-<!-- ![Kasun's Github Stats] -->
-<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=kasunicts48&theme=github_dark&show_icons=true&layout=compact" />
 
-<br/>
 ## 🙋‍♂️ About Me
 
 <!-- - 🔭 I’m currently working as a **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)** -->
@@ -13,6 +10,11 @@
 - 📫 How to reach me **kasundananjayaweerasooriya@@gmail.com**
 
 - ⚡ Fun fact **I like to Photography and Surfing Internet**
+
+<!-- ![Kasun's Github Stats] -->
+<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=kasunicts48&theme=github_dark&show_icons=true&layout=compact" />
+
+<br/>
 
 ## 🚀 Languages and Tools:
 
