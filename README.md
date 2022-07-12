@@ -1,4 +1,4 @@
-## Hi there 👋<br>I'm Kasun Dananjaya
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Kasun</h1>
 <!-- ![Kasun's Github Stats] -->
 <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=kasunicts48&theme=github_dark&show_icons=true&layout=compact" />
 
