@@ -4,7 +4,7 @@
 <!-- ![Kasun's Top Langs] -->
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasunicts48&theme=github_dark&show_icons=true&layout=compact" />
 
-
+<img align="left" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
 
 
 <!--
