@@ -1,6 +1,6 @@
 ## Hi there 👋<br>I'm Kasun Dananjaya
 
-![Kasun's GitHub stats]()
+![Kasun's GitHub stats]
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=kasunicts48&theme=github_dark&show_icons=true&layout=compact" />
 ![Kasun's Top Langs]
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasunicts48&theme=github_dark&show_icons=true&layout=compact" />
