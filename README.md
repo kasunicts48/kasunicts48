@@ -14,8 +14,8 @@
 
 - ⚡ Fun fact **I like to Photography and Surfing Internet**
 
-<br/>
 ## 🚀 Languages and Tools:
+
 <!-- <img align="left" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" /> -->
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white&style=for-the-badge)
