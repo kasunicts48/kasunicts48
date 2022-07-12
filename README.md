@@ -4,11 +4,11 @@
 
 <!-- - 🔭 I’m currently working as a **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)** -->
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+🌱 I’m currently learning **Data Structures and Algorithms.**
 
-- 📫 How to reach me **kasundananjayaweerasooriya@@gmail.com**
+📫 How to reach me **kasundananjayaweerasooriya@@gmail.com**
 
-- ⚡ Fun fact **I like to Photography and Surfing Internet**
+⚡ Fun fact **I like to Photography and Surfing Internet**
 
 <!-- ![Kasun's Github Stats] -->
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=kasunicts48&theme=github_dark&show_icons=true&layout=compact" />
