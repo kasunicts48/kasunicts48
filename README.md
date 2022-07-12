@@ -4,8 +4,6 @@
 <!-- ![Kasun's Top Langs] -->
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasunicts48&theme=github_dark&show_icons=true&layout=compact" />
 
-<img align="left" alt"NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style-for-the-badge&logo-node-dot-js&logoColor-white" />
-
 
 
 
