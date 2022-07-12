@@ -17,6 +17,10 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=kasunicts48&theme=github_dark&show_icons=true&layout=compact" />
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kasunicts48&theme=dark-ice" alt="kasunicts48" /></p>
+[![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=kasunicts48&theme=dark)]
+
+
+(https://github.com/kasunicts48/github-readme-streak-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
