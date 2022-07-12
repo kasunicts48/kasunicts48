@@ -1,8 +1,8 @@
 ## Hi there 👋<br>I'm Kasun Dananjaya
 <!-- ![Kasun's Github Stats] -->
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=kasunicts48&theme=github_dark&show_icons=true&layout=compact" />
+<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=kasunicts48&theme=github_dark&show_icons=true&layout=compact" />
 <!-- ![Kasun's Top Langs] --><br>
-<img align="left" width="53%" height="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasunicts48&theme=github_dark&show_icons=true&layout=compact" />
+<img align="left" width="47%" height="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasunicts48&theme=github_dark&show_icons=true&layout=compact" />
 
 **Familiar Technologies**
 <!-- <img align="left" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" /> -->
