@@ -1,8 +1,19 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Kasun</h1>
+<h1 align="center">Hi there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Kasun</h1>
+
 <!-- ![Kasun's Github Stats] -->
 <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=kasunicts48&theme=github_dark&show_icons=true&layout=compact" />
 
-**Familiar Technologies**
+## 🙋‍♂️ About Me
+
+<!-- - 🔭 I’m currently working as a **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)** -->
+
+- 🌱 I’m currently learning **Data Structures and Algorithms.**
+
+- 📫 How to reach me **kasundananjayaweerasooriya@@gmail.com**
+
+- ⚡ Fun fact **I like to Photography and Surfing Internet**
+
+## 🚀 Languages and Tools:
 <!-- <img align="left" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" /> -->
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white&style=for-the-badge)
