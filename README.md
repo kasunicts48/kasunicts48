@@ -4,11 +4,11 @@
 
 <!-- - 🔭 I’m currently working as a **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)** -->
 
- - 🌱 I’m currently learning **Data Structures and Algorithms.**
+ - ### 🌱 I’m currently learning **Data Structures and Algorithms.**
 
- - 📫 How to reach me **kasundananjayaweerasooriya@gmail.com**
+ - ### 📫 How to reach me **kasundananjayaweerasooriya@gmail.com**
 
- - ⚡ Fun fact **I like to Photography and Surfing Internet**
+ - ### 🃏 Fun fact **I like to Photography and Surfing Internet**
 
 ## 🚀 Languages and Tools:
 
@@ -41,7 +41,7 @@
 -->
 <div align="left"><div/>
 
-## Kasun's Top Languages
+## 💾 Kasun's Top Languages
 
 <div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasunicts48&theme=github_dark&show_icons=true&layout=compact" />
@@ -49,7 +49,7 @@
 
 <div align="left"><div/>
  
-## 💬 Connect with me:
+## 📮 Connect with me:
 
 <p align="left">
 <a href="https://linkedin.com/in/kasundananjayaweerasooriya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kasundananjayaweerasooriya" height="30" width="40" /></a>
