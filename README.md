@@ -4,11 +4,11 @@
 
 <!-- - 🔭 I’m currently working as a **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)** -->
 
- - [x] 🌱 I’m currently learning **Data Structures and Algorithms.**
+ - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
- - [x] 📫 How to reach me **kasundananjayaweerasooriya@gmail.com**
+ - 📫 How to reach me **kasundananjayaweerasooriya@gmail.com**
 
- - [x] ⚡ Fun fact **I like to Photography and Surfing Internet**
+ - ⚡ Fun fact **I like to Photography and Surfing Internet**
 
 ## 🚀 Languages and Tools:
 
