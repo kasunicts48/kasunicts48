@@ -4,7 +4,7 @@
 
 <!-- - 🔭 I’m currently working as a **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)** -->
 
-🌱 I’m currently learning **Data Structures and Algorithms.**
+[X] 🌱 I’m currently learning **Data Structures and Algorithms.**
 
 📫 How to reach me **kasundananjayaweerasooriya@gmail.com**
 
