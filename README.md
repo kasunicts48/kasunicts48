@@ -31,11 +31,17 @@
 
 ## Kasun's Github stats
 
+<div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=kasunicts48&theme=github_dark&show_icons=true&layout=compact" />
+<div/>
+
+<div align="left"><div/>
 
 ## Kasun's Top Languages
 
+<div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasunicts48&theme=github_dark&show_icons=true&layout=compact" />
+<div/>
 
 ## 💬 Connect with me:
 
