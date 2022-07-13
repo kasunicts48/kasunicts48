@@ -29,11 +29,11 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-## Kasun's Top Langs
+## Kasun's Github stats
 
-<img align="center"  src="https://github-readme-stats.vercel.app/api?username=kasunicts48&theme=github_dark&show_icons=true&layout=compact" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=kasunicts48&theme=github_dark&show_icons=true&layout=compact" />
 
-## Kasun's Top Langs
+## Kasun's Top Languages
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasunicts48&theme=github_dark&show_icons=true&layout=compact" />
 
