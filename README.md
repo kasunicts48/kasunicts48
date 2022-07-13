@@ -32,12 +32,13 @@
 ![Xampp](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 
+<!--
 ## Kasun's Github stats
 
 <div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=kasunicts48&theme=github_dark&show_icons=true&layout=compact" />
 <div/>
-
+-->
 <div align="left"><div/>
 
 ## Kasun's Top Languages
