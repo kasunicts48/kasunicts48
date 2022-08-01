@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 
-<!-- - 🔭 I’m currently working as a **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)** -->
+- 🔭 I’m currently working Luna Tech
 
  - ### 🌱 I’m currently learning **Data Structures and Algorithms.**
 
