@@ -4,7 +4,7 @@
 
 - ### 🔭 I'm currently working at Luna Tech Solutions
 
- - ### 🌱 I’m currently learning **Data Structures and Algorithms.**
+ - ### 🌱 I’m currently learning **Redux and NEXT.JS.**
 
  - ### 📫 How to reach me **kasundananjayaweerasooriya@gmail.com**
 
