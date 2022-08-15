@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 
-- ### 🔭 I’m currently working Luna Tech
+- ### 🔭 I'm currently working at Luna Tech Solutions
 
  - ### 🌱 I’m currently learning **Data Structures and Algorithms.**
 
