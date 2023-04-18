@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 
-- ### 🔭 I'm currently working at Luna Tech Solutions
+- ### 🔭 I'm currently working at SONIC LABS
 
  - ### 🌱 I’m currently learning **Typescript and NEST JS.**
 
