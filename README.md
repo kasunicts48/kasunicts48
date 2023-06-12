@@ -46,13 +46,6 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=kasunicts48&theme=github_dark&show_icons=true&layout=compact" />
 <div/>
 -->
-
-## 📮 Connect with me:
-
-<p align="left">
-<a href="https://linkedin.com/in/kasundananjayaweerasooriya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kasundananjayaweerasooriya" height="30" width="40" /></a>
-</p>
-
 <!--
 **kasunicts48/kasunicts48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
