@@ -33,7 +33,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Xampp](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-470137?style=for-the-badge&logo=Figma&logoColor=FF61F6)
+![Figma](https://img.shields.io/badge/Figma-17A589?style=for-the-badge&logo=Figma&logoColor=FF61F6)
 ![HackerRank](https://img.shields.io/badge/-Hackerrank-008b07?style=for-the-badge&logo=HackerRank&logoColor=black)
 ![GNU Bash](https://img.shields.io/badge/GNU%20Bash-gray?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
