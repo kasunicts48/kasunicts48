@@ -1,5 +1,5 @@
 <h1 align="center">Hello World<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Kasun Dananjaya</h1>
-
+<a href="https://imgur.com/yx6v0Yw"><img src="https://i.imgur.com/yx6v0Yw.png" title="source: imgur.com" /></a>
 <h3 align="left">👨‍💻 About Me:</h3>
 
 - ### 🔭 I'm currently working @ SONIC LABS
