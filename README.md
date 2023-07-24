@@ -4,7 +4,7 @@
 
 - ### 🔭 I'm currently working @ SONIC LABS
 
- - ### 🌱 I’m currently learning **Typescript and NEST JS.**
+ - ### 🌱 I’m on <a href="https://hashnode.com/@kasunicts48">**HashNode**<a/>
 
  - ### 📫 How to reach me **kasundananjayaweerasooriya@gmail.com**
 
