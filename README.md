@@ -4,9 +4,9 @@
 
 - ### 🔭 I'm currently working @ SONIC LABS
 
- - ### 🌱 I’m on <a href="https://hashnode.com/@kasunicts48" target="_blank">**HashNode**<a/>
+ - ### 🌱 I’m on <a href="https://hashnode.com/@kasunicts48" target="_blank">**HashNode**</a>
 
- - ### 📫 How to reach me <a href="mailto:kasundananjayaweerasooriya@gmail.com">**kasundananjayaweerasooriya@gmail.com**<a/>
+ - ### 📫 How to reach me <address><a href="mailto:kasundananjayaweerasooriya@gmail.com">**kasundananjayaweerasooriya@gmail.com**</a></address>
 
  - ### 🃏 Fun fact **I like to Photography and Surfing Internet**
 
