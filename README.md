@@ -44,7 +44,7 @@
 <a href="https://linkedin.com/in/kasundananjayaweerasooriya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kasundananjayaweerasooriya" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/kasunicts48" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kasunicts48" height="30" width="40" /></a>
 </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kasunicts48&show_icons=true&locale=en&layout=compact&theme=radical" alt="kasunicts48" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kasunicts48&show_icons=true&locale=en&layout=compact&theme=radical" alt="kasunicts48" /></p> -->
 <!--
 ## 
 ##  Languages and Tools:
