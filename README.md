@@ -4,7 +4,7 @@
 
 - ### 🔭 I'm currently working @ SONIC LABS
 
- - ### 🌱 I’m on <a href="https://hashnode.com/@kasunicts48" target="_blank"> **HashNode** </a>
+ - ### 🌱 I’m on <a href="[https://hashnode.com/@kasunicts48](https://medium.com/@kasundananjayaweerasooriya)" target="_blank"> **Medium** </a>
 
  - ### 📫 How to reach me <address><a href="mailto:kasundananjayaweerasooriya@gmail.com"> **kasundananjayaweerasooriya@gmail.com** </a></address>
 
