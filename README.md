@@ -10,15 +10,20 @@
 ###
 </div>
 
-<img align="right" src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" height="150" alt="code gif"  />
 
-<div align="left">
+
+<div align="center">
+
+  <img align="right" src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" height="150" alt="code gif"  />
+  <div align="left">
+    
+  ### 🔭 I'm currently working @ SONIC LABS
   
-### 🔭 I'm currently working @ SONIC LABS
-
-### 📧 How to reach me <address><a href="mailto:kasundananjayaweerasooriya@gmail.com"> **kasundananjayaweerasooriya@gmail.com** </a></address>
-
-### ⚡ Fun fact **I like to Photography 📸 and Surfing Internet 🌐**
+  ### 📧 How to reach me <address><a href="mailto:kasundananjayaweerasooriya@gmail.com"> **kasundananjayaweerasooriya@gmail.com** </a></address>
+  
+  ### ⚡ Fun fact **I like to Photography 📸 and Surfing Internet 🌐**
+  
+  </div>
 
 </div>
 
