@@ -13,20 +13,17 @@
   
 ### 🔭 I'm currently working @ SONIC LABS
 
-### 🌱 I’m on <a href="https://medium.com/@kasundananjayaweerasooriya" target="_blank"> **Medium** </a>
+### 📧 How to reach me <address><a href="mailto:kasundananjayaweerasooriya@gmail.com"> **kasundananjayaweerasooriya@gmail.com** </a></address>
 
-### 📫 How to reach me <address><a href="mailto:kasundananjayaweerasooriya@gmail.com"> **kasundananjayaweerasooriya@gmail.com** </a></address>
-
-### 🃏 Fun fact **I like to Photography and Surfing Internet**
+### ⚡ Fun fact **I like to Photography 📸 and Surfing Internet 🌐**
 
 </div>
 
 ###
 
-
 <div align="center">
 
-<h2 align="center"> 🚀 Languages and Tools </h2>
+<h2 align="center">### 🚀 Languages and Tools </h2>
   
   
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
@@ -95,8 +92,9 @@
 </div>
 
 <div align="center">
-  <a href="https://linkedin.com/in/kasundananjayaweerasooriya" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
-  <a href="https://www.hackerrank.com/kasunicts48" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  /></a>
+  <a href="https://linkedin.com/in/kasundananjayaweerasooriya" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
+  <a href="https://www.hackerrank.com/kasunicts48" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  /></a>
+  <a href="https://www.hackerrank.com/kasunicts48](https://medium.com/@kasundananjayaweerasooriya" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  /></a>
 </div>
 
 <!--<h3 align="left">🚀 Languages and Tools:</h3> -->
