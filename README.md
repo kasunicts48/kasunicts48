@@ -42,10 +42,10 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 
+
 ## 💰 You can help me by Donating
-<p align="center">
  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/kasun.dev) 
-</div>
+
 
 ## 🌎 Social Media
 <!-- <h3 align="left">Connect with me:</h3> -->
