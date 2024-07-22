@@ -41,6 +41,8 @@
 ![GNU Bash](https://img.shields.io/badge/GNU%20Bash-gray?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+
 
 
 ## 💰 You can help me by Donating
