@@ -112,24 +112,15 @@
 </div>
 
 ###
-
-## 💰 You can help me by Donating
+<div align="center">
+  ## 💰 You can help me by Donating
  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/kasun.dev) 
 
-
-## 🌎 Social Media & Others
-<!-- <h3 align="left">Connect with me:</h3> -->
-<div align="left">
-
-
-</p>
-
+</div>
 
 <div align="center">
   <a href="https://linkedin.com/in/kasundananjayaweerasooriya" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
   <a href="https://www.hackerrank.com/kasunicts48" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  /></a>
-  
-  
 </div>
 
 ###
