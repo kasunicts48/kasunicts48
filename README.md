@@ -5,11 +5,11 @@
 
 <div align="center">
   
-### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 </div>
 
+<div align="center">
 ### 🔭 I'm currently working @ SONIC LABS
 
 ### 🌱 I’m on <a href="https://medium.com/@kasundananjayaweerasooriya" target="_blank"> **Medium** </a>
@@ -18,8 +18,7 @@
 
 ### 🃏 Fun fact **I like to Photography and Surfing Internet**
 
-
-### Skills
+</div>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
