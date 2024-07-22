@@ -5,13 +5,13 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-- ### 🔭 I'm currently working @ SONIC LABS
+### 🔭 I'm currently working @ SONIC LABS
 
- - ### 🌱 I’m on <a href="https://medium.com/@kasundananjayaweerasooriya" target="_blank"> **Medium** </a>
+### 🌱 I’m on <a href="https://medium.com/@kasundananjayaweerasooriya" target="_blank"> **Medium** </a>
 
- - ### 📫 How to reach me <address><a href="mailto:kasundananjayaweerasooriya@gmail.com"> **kasundananjayaweerasooriya@gmail.com** </a></address>
+### 📫 How to reach me <address><a href="mailto:kasundananjayaweerasooriya@gmail.com"> **kasundananjayaweerasooriya@gmail.com** </a></address>
 
- - ### 🃏 Fun fact **I like to Photography and Surfing Internet**
+### 🃏 Fun fact **I like to Photography and Surfing Internet**
 
 
 ### Skills
