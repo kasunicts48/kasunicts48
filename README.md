@@ -25,6 +25,9 @@
 
 
 <div align="center">
+
+  ### 🚀 Languages and Tools
+  
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
@@ -78,6 +81,23 @@
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
 </div>
 
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=kasundananjayaweerasooriya&theme=dark" alt="Layout with last medium posts"  />
+</div>
+
+###
+<div align="center">
+  
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/kasun.dev) 
+
+</div>
+
+<div align="center">
+  <a href="https://linkedin.com/in/kasundananjayaweerasooriya" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
+  <a href="https://www.hackerrank.com/kasunicts48" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  /></a>
+</div>
+
 <!--<h3 align="left">🚀 Languages and Tools:</h3> -->
 <!--
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -113,26 +133,6 @@
 ![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white)
 -->
 
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=kasundananjayaweerasooriya&theme=dark" alt="Layout with last medium posts"  />
-</div>
-
-###
-<div align="center">
-  
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/kasun.dev) 
-
-</div>
-
-<div align="center">
-  <a href="https://linkedin.com/in/kasundananjayaweerasooriya" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
-  <a href="https://www.hackerrank.com/kasunicts48" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  /></a>
-</div>
-
-###
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kasunicts48&show_icons=true&locale=en&layout=compact&theme=radical" alt="kasunicts48" /></p> -->
 <!--
 ## 
