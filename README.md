@@ -105,6 +105,17 @@
 ![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white)
 -->
 
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=kasundananjayaweerasooriya&theme=dark" alt="Layout with last medium posts"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/kasunicts48/kasunicts48/output/snake.svg" alt="Snake animation" />
+
+###
 
 ## 💰 You can help me by Donating
  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/kasun.dev) 
