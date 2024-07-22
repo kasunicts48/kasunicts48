@@ -10,6 +10,7 @@
 </div>
 
 <div align="center">
+  
 ### 🔭 I'm currently working @ SONIC LABS
 
 ### 🌱 I’m on <a href="https://medium.com/@kasundananjayaweerasooriya" target="_blank"> **Medium** </a>
