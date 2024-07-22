@@ -24,7 +24,7 @@
 
 <div align="center">
 
-<h2 align="center">### 🚀 Languages and Tools </h2>
+<h2 align="center">🚀 Languages and Tools </h2>
   
   
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
