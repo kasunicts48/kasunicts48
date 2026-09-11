@@ -1,6 +1,8 @@
+<!-- Header Section -->
 <h1 align="center">Hi there, I'm Kasun Dananjaya <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h3 align="center">Freelance Software Developer 🚀</h3>
 
+<!-- Social Links -->
 <p align="center">
   <a href="https://linkedin.com/in/kasundananjayaweerasooriya" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -13,6 +15,7 @@
   </a>
 </p>
 
+<!-- Dynamic Quote -->
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
 </div>
@@ -33,20 +36,10 @@
 ### 🛠️ Tech Stack & Tools
 
 <div align="center">
+  <!-- Skillicons automatically groups and scales your stack beautifully -->
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,angular,flutter,tailwind,bootstrap,nodejs,nestjs,express,mongodb,mysql,firebase,redux,npm,git,github,vscode,figma,bash,nginx,docker,linux,postman&perline=10" alt="Tech Stack" />
   </a>
-</div>
-
-<br/>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kasunicts48&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Kasun's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasunicts48&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Kasun's Top Languages" width="48%" />
 </div>
 
 <br/>
