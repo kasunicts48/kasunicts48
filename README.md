@@ -15,7 +15,7 @@
   
   <div align="left">
     
-  ### 🔭 I'm currently working @ SONIC LABS
+  ### 🔭 I'm currently working as a freelancer 
   
   ### 📧 How to reach me <address><a href="mailto:kasundananjayaweerasooriya@gmail.com"> **kasundananjayaweerasooriya@gmail.com** </a></address>
   
