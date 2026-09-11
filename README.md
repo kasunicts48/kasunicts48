@@ -38,10 +38,10 @@ I am a Full-Stack Software Engineer based in Sri Lanka with a passion for buildi
 
 ### 🚀 Featured Experience & Projects
 
-* **Enterprise Web Applications:** Refactored and maintained core full-stack features for platforms like *Creative Hub International* and *Laundryman*, including complex API integrations (like DocuSign), robust timezone handling, and custom proposal notification systems.
-* **Modern Web Architectures:** Designed and built high-performance, interactive platforms—such as dynamic wedding RSVP applications—utilizing **Astro** and **Tailwind CSS**.
-* **Hospitality Platforms:** Architected system maps, UI designs, and landing pages for boutique properties including *Pine Edge Villa*, *Windloft Retreat*, and *Neela Weralu*.
-* **Digital Branding & UI/UX:** Developed technical specifications, branding guidelines, and user interfaces (using Figma and UXcel principles) for tech startups like *BizSolution*.
+* **Enterprise Web Applications:** Engineered and maintained core full-stack features for various SaaS platforms, handling complex third-party API integrations (such as e-signatures), robust timezone logic, and automated proposal notification systems.
+* **Modern Web Architectures:** Designed and built high-performance, interactive platforms—such as dynamic event management and RSVP applications—utilizing **Astro** and **Tailwind CSS**.
+* **Hospitality Platforms:** Architected system maps, UI designs, and high-converting landing pages for boutique hospitality brands and retreats.
+* **Digital Branding & UI/UX:** Developed technical specifications, comprehensive branding guidelines, and intuitive user interfaces using modern design principles for emerging tech startups.
 
 ---
 
@@ -52,16 +52,6 @@ I am a Full-Stack Software Engineer based in Sri Lanka with a passion for buildi
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,angular,astro,html,css,tailwind,bootstrap,nodejs,nestjs,express,postgres,mysql,mongodb,firebase,redux,flutter,npm,git,github,docker,nginx,linux,bash,vscode,figma,postman&perline=10" alt="Tech Stack" />
   </a>
-</div>
-
-<br/>
-
----
-
-### ✍️ Recent Articles
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=kasundananjayaweerasooriya&theme=tokyonight" alt="Latest Medium Posts" />
 </div>
 
 <br/>
