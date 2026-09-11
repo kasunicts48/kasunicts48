@@ -26,10 +26,10 @@
 
 ### 👨‍💻 About Me
 
-I am a Full-Stack Software Engineer based in Sri Lanka with a passion for building scalable web applications and intuitive user interfaces. After gaining solid industry experience as a Software Engineer at Sonic Labs, I transitioned to freelance development where I architect digital solutions for agencies, startups, and hospitality brands.
+I am a Full-Stack Software Engineer based in Sri Lanka with a passion for building scalable web applications and intuitive user interfaces. After gaining solid industry experience as a Software Engineer, I transitioned to freelance development where I architect digital solutions for agencies, startups, and hospitality brands.
 
 * 🔭 I'm currently working as a **Freelance Full-Stack Developer**.
-* 🏢 **Previously:** Software Engineer at Sonic Labs.
+* 🏢 **Background:** Experienced Software Engineer.
 * 🎓 **Education:** BICT (Hons) from the University of Jaffna.
 * 💻 **Specialties:** React, Next.js, NestJS, Node.js, and Astro.
 * 📫 **Reach me at:** [kasundananjayaweerasooriya@gmail.com](mailto:kasundananjayaweerasooriya@gmail.com)
