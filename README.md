@@ -1,18 +1,18 @@
-<!-- 🕹️ ARCADE / CYBERPUNK HEADER -->
+<!-- 🔥 Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,24,36,48&height=200&section=header&text=KASUN%20DANANJAYA&fontSize=42&fontColor=00f2fe&fontAlignY=40&animation=twinkle&fontAlign=50&desc=Full-Stack%20Software%20Engineer%20%7C%20UI%2FUX%20Architect&descSize=16&descColor=ffffff&descAlignY=65&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30&height=180&section=header&text=Kasun%20Dananjaya&fontSize=40&fontColor=ffffff&fontAlignY=38&animation=fadeIn&fontAlign=50&desc=Full-Stack%20Software%20Engineer%20&%20Freelance%20Developer&descSize=16&descAlignY=62&descAlign=50" width="100%"/>
 </p>
 
-<!-- 👋 GREETING & ROLE -->
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm Kasun Dananjaya Weerasooriya
-</h1>
+<!-- 👋 About Me Greeting -->
+<h2 align="center">
+  Hi there! I'm Kasun Dananjaya Weerasooriya <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+</h2>
 
 <p align="center">
-  <i>Building scalable full-stack web applications & intuitive UIs for agencies, hospitality brands, and tech startups.</i>
+  <i>Building scalable full-stack web applications and intuitive UIs for agencies, hospitality brands, and tech startups.</i>
 </p>
 
-<!-- 🌐 CONNECT & SOCIAL BADGES -->
+<!-- 🌐 Social Links / Badges -->
 <p align="center">
   <a href="https://linkedin.com/in/kasundananjayaweerasooriya" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -28,76 +28,41 @@
   </a>
 </p>
 
----
+<br/>
 
-<!-- 🛠️ TECH STACK & TOOLS -->
+<!-- 💻 Tech Stack -->
 <div align="center">
-  <h2>🛠️ Tech Stack & Arsenal</h2>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,angular,astro,html,css,tailwind,bootstrap,nodejs,nestjs,express,postgres,mysql,mongodb,firebase,redux,npm,git,github,docker,nginx,linux,bash,vscode,figma,postman&perline=10" alt="Tech Stack" />
-  </a>
+  <h3>🛠️ Tech Stack & Tools</h3>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,angular,astro,html,css,tailwind,bootstrap,nodejs,nestjs,express,postgres,mysql,mongodb,firebase,redux,npm,git,github,docker,nginx,linux,bash,vscode,figma,postman&perline=10" alt="Tech Stack" />
 </div>
 
----
+<br/>
 
-<!-- 🔭 FEATURED & ONGOING WORK -->
-<table border="0" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🚀 Featured Projects</h3>
-      <ul>
-        <li>
-          <b>Interactive Event Platforms:</b> Built custom wedding RSVP apps using Astro and Tailwind with dynamic media galleries.
-        </li>
-        <li>
-          <b>Startup Branding & UI:</b> Architected technical specifications and UI guidelines for emerging digital agencies.
-        </li>
-        <li>
-          <b>Educational Materials:</b> Authored and designed ICT syllabus notes for Grade 10 & 11 students.
-        </li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🚧 Ongoing Work</h3>
-      <ul>
-        <li>
-          <b>Hospitality Solutions:</b> Designing high-performance landing pages for boutique properties and retreats.
-        </li>
-        <li>
-          <b>SaaS Integrations:</b> Developing full-stack features focusing on third-party API integrations and complex timezone logic.
-        </li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
-<!-- 💡 ENGINEERING PHILOSOPHY -->
+<!-- 💡 How I Work -->
 <div align="center">
   <h3>💡 How I Work</h3>
   <p>
-    🧱 <b>Architect Modular APIs:</b> Scalable backend solutions using Nest.js & Node.js.<br/>
-    🎨 <b>Design-to-Code:</b> Structured Figma workflows following professional UX principles.<br/>
-    🎓 <b>Engineering Fundamentals:</b> System architecture backed by BICT (Hons).
+    <b>🧱 Architect Modular APIs:</b> Scalable backend solutions using Nest.js & Node.js.<br/>
+    <b>🎨 Design-to-Code:</b> Structured Figma workflows following professional UX principles.<br/>
+    <b>🎓 Engineering Fundamentals:</b> Strong system architecture backed by BICT (Hons).
   </p>
 </div>
 
----
+<br/>
 
-<!-- 📊 SNAKE CONTRIBUTION GRAPH (Arcade Style like the Video) -->
+<!-- 📈 GitHub Stats Section -->
 <div align="center">
-  <h3>🕹️ Contribution Activity</h3>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kasunicts48/kasunicts48/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kasunicts48/kasunicts48/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/kasunicts48/kasunicts48/output/github-contribution-grid-snake.svg">
-  </picture>
+  <h3>📈 GitHub Stats & Metrics</h3>
+  <p>
+   <img src="https://ghstats.dev/api/langs?username=kasunicts48&hide_border=true&hide_title=true&max_langs=12&layout=donut" alt="Top Languages" />
+  </p>
+  <p>
+   <img src="https://ghstats.dev/api/card?username=kasunicts48&hide_border=true&hide_title=true&size=compact" alt="GitHub Stats Card" />
+  </p>
 </div>
+<br/>
 
----
-
-<!-- 📸 BEYOND CODE -->
+<!-- 📸 Beyond Code -->
 <div align="center">
   <h3>📸 Beyond Code</h3>
   <p>
@@ -107,12 +72,14 @@
   </p>
 </div>
 
-<!-- 👁️ VISITOR COUNTER & FOOTER ANIMATION -->
 <br/>
+
+<!-- 👁️ Profile Visitor Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kasunicts48&color=00f2fe&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=kasunicts48&color=blueviolet&style=flat-square&label=Profile+Views" alt="Visitor Count" />
 </p>
 
+<!-- 🌊 Footer Wave -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=48,36,24,12&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,20,11,6&height=100&section=footer" width="100%"/>
 </p>
