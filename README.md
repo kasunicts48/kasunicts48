@@ -76,13 +76,8 @@
   <h3>📈 GitHub Stats & Metrics</h3>
   
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=kasunicts48&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Kasun's GitHub Stats" width="48%" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kasunicts48&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
-  </p>
-  
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasunicts48&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-    <img src="https://github-profile-trophy.vercel.app/?username=kasunicts48&theme=tokyonight&no-bg=true&margin-w=5&margin-h=5" alt="Trophies" width="48%" />
+   <img src="https://ghstats.dev/api/langs?username=kasunicts48&hide_border=true&hide_title=true&max_langs=12&layout=donut" alt="Top Languages" />
+  <img src="https://ghstats.dev/api/card?username=kasunicts48&hide_border=true&hide_title=true&size=compact" alt="GitHub Stats Card" />
   </p>
 </div>
 
