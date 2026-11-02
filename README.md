@@ -38,27 +38,6 @@
 
 <br/>
 
-<!-- 🔭 Featured & Ongoing Work -->
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🚀 Featured Projects</h3>
-      <ul>
-        <li><b>Interactive Event Platforms:</b> Built custom wedding RSVP apps using Astro and Tailwind with dynamic media galleries.</li>
-        <li><b>Startup Branding & UI:</b> Architected technical specifications and UI guidelines for emerging digital agencies.</li>
-        <li><b>Educational Materials:</b> Authored and designed ICT syllabus notes for Grade 10 & 11 students.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🚧 Ongoing Work</h3>
-      <ul>
-        <li><b>Hospitality Solutions:</b> Designing high-performance landing pages for boutique properties and retreats.</li>
-        <li><b>SaaS Integrations:</b> Developing full-stack features focusing on third-party API integrations and complex timezone logic.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
 <!-- 💡 How I Work -->
 <div align="center">
   <h3>💡 How I Work</h3>
