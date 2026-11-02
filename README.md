@@ -1,85 +1,76 @@
-<!-- 🔥 Header Banner -->
+<!-- Animated profile header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30&height=180&section=header&text=Kasun%20Dananjaya&fontSize=40&fontColor=ffffff&fontAlignY=38&animation=fadeIn&fontAlign=50&desc=Full-Stack%20Software%20Engineer%20&%20Freelance%20Developer&descSize=16&descAlignY=62&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=220&section=header&text=Kasun%20Dananjaya&fontSize=46&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20Software%20Engineer%20%7C%20Freelance%20Developer&descAlignY=61&descSize=17" width="100%" alt="Kasun Dananjaya profile header" />
 </p>
 
-<!-- 👋 About Me Greeting -->
-<h2 align="center">
-  Hi there! I'm Kasun Dananjaya Weerasooriya <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-</h2>
-
 <p align="center">
-  <i>Building scalable full-stack web applications and intuitive UIs for agencies, hospitality brands, and tech startups.</i>
+  <a href="https://github.com/kasunicts48">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=900&color=06B6D4&center=true&vCenter=true&width=700&lines=Building+scalable+digital+experiences;Turning+Figma+ideas+into+production+products;Open+to+interesting+collaborations+%F0%9F%9A%80" alt="Animated introduction" />
+  </a>
 </p>
 
-<!-- 🌐 Social Links / Badges -->
 <p align="center">
-  <a href="https://linkedin.com/in/kasundananjayaweerasooriya" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://github.com/kasunicts48?tab=followers">
+    <img src="https://img.shields.io/github/followers/kasunicts48?label=Followers&style=for-the-badge&color=2563eb&labelColor=0f172a" alt="GitHub followers" />
+  </a>
+  <a href="https://github.com/kasunicts48?tab=repositories">
+    <img src="https://img.shields.io/github/stars/kasunicts48?affiliations=OWNER&style=for-the-badge&color=f59e0b&labelColor=0f172a" alt="GitHub stars" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=kasunicts48&style=for-the-badge&color=06b6d4&label=PROFILE+VIEWS" alt="Profile views" />
+</p>
+
+<h2 align="center">Hey there, I'm Kasun 👋</h2>
+
+<p align="center">
+  I build <strong>scalable full-stack web applications</strong> and <strong>intuitive interfaces</strong> for agencies, hospitality brands, and technology startups.
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/kasundananjayaweerasooriya">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:kasundananjayaweerasooriya@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/kasunicts48" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://buymeacoffee.com/kasun.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+  <a href="https://buymeacoffee.com/kasun.dev">
+    <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black" alt="Buy me a coffee" />
   </a>
 </p>
 
-<br/>
+## ⚡ What I do
 
-<!-- 💻 Tech Stack -->
-<div align="center">
-  <h3>🛠️ Tech Stack & Tools</h3>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,angular,astro,html,css,tailwind,bootstrap,nodejs,nestjs,express,postgres,mysql,mongodb,firebase,redux,npm,git,github,docker,nginx,linux,bash,vscode,figma,postman&perline=10" alt="Tech Stack" />
-</div>
+```text
+🧱 Backend architecture    Modular APIs with Node.js and NestJS
+🎨 Product interfaces      Accessible, responsive UI from Figma to code
+🚀 Full-stack delivery     Reliable features from database to deployment
+🧠 Engineering mindset     Clean systems backed by BICT (Hons)
+```
 
-<br/>
+## 🛠️ Technologies I use
 
-<!-- 💡 How I Work -->
-<div align="center">
-  <h3>💡 How I Work</h3>
-  <p>
-    <b>🧱 Architect Modular APIs:</b> Scalable backend solutions using Nest.js & Node.js.<br/>
-    <b>🎨 Design-to-Code:</b> Structured Figma workflows following professional UX principles.<br/>
-    <b>🎓 Engineering Fundamentals:</b> Strong system architecture backed by BICT (Hons).
-  </p>
-</div>
-
-<br/>
-
-<!-- 📈 GitHub Stats Section -->
-<div align="center">
-  <h3>📈 GitHub Stats & Metrics</h3>
-  <p>
-   <img src="https://ghstats.dev/api/langs?username=kasunicts48&hide_border=true&hide_title=true&max_langs=12&layout=donut" alt="Top Languages" />
-  </p>
-  <p>
-   <img src="https://ghstats.dev/api/card?username=kasunicts48&hide_border=true&hide_title=true&size=compact" alt="GitHub Stats Card" />
-  </p>
-</div>
-<br/>
-
-<!-- 📸 Beyond Code -->
-<div align="center">
-  <h3>📸 Beyond Code</h3>
-  <p>
-    📷 <b>Manual Photography:</b> Capturing moments with a Nikon D7200.<br/>
-    🎨 <b>Color Grading:</b> Experimenting with cinematic looks in DaVinci Resolve & Lightroom.<br/>
-    🚴 <b>Fitness:</b> Home fitness routines and indoor cycling.
-  </p>
-</div>
-
-<br/>
-
-<!-- 👁️ Profile Visitor Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kasunicts48&color=blueviolet&style=flat-square&label=Profile+Views" alt="Visitor Count" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,angular,astro,html,css,tailwind,bootstrap,nodejs,nestjs,express,postgres,mysql,mongodb,firebase,redux,npm,git,github,docker,nginx,linux,bash,vscode,figma,postman&perline=10" alt="Technology stack" />
 </p>
 
-<!-- 🌊 Footer Wave -->
+## 📊 GitHub at a glance
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,20,11,6&height=100&section=footer" width="100%"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kasunicts48&show_icons=true&hide_border=true&theme=transparent&title_color=2563eb&icon_color=06b6d4&text_color=64748b&rank_icon=github" alt="Kasun's GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasunicts48&layout=compact&hide_border=true&theme=transparent&title_color=2563eb&text_color=64748b&langs_count=8" alt="Kasun's top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kasunicts48&hide_border=true&background=transparent&ring=2563eb&fire=f59e0b&currStreakLabel=06b6d4&sideLabels=64748b&dates=94a3b8" alt="Kasun's contribution streak" />
+</p>
+
+## 🌱 Beyond the code
+
+Photography with a Nikon D7200 · cinematic color grading in DaVinci Resolve and Lightroom · home fitness and indoor cycling.
+
+<p align="center">
+  <i>“Great products sit at the intersection of thoughtful design and solid engineering.”</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:2563eb,100:0f172a&height=120&section=footer" width="100%" alt="Animated profile footer" />
 </p>
