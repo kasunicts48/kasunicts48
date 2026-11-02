@@ -74,13 +74,13 @@
 <!-- 📈 GitHub Stats Section -->
 <div align="center">
   <h3>📈 GitHub Stats & Metrics</h3>
-  
   <p>
    <img src="https://ghstats.dev/api/langs?username=kasunicts48&hide_border=true&hide_title=true&max_langs=12&layout=donut" alt="Top Languages" />
-  <img src="https://ghstats.dev/api/card?username=kasunicts48&hide_border=true&hide_title=true&size=compact" alt="GitHub Stats Card" />
+  </p>
+  <p>
+   <img src="https://ghstats.dev/api/card?username=kasunicts48&hide_border=true&hide_title=true&size=compact" alt="GitHub Stats Card" />
   </p>
 </div>
-
 <br/>
 
 <!-- 📸 Beyond Code -->
